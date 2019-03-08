@@ -1,4 +1,4 @@
-# JavaScript Password Generator Lab
+lower# JavaScript Password Generator Lab
 
 ## Objectives
 
